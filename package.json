@@ -1,7 +1,7 @@
 {
   "name": "react-native-nirvana-module",
   "title": "React Native Nirvana Module",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "TODO",
   "main": "index.js",
   "scripts": {
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-nirvana-module.git",
-    "baseUrl": "https://github.com/github_account/react-native-nirvana-module"
+    "url": "git+https://github.com/Bing619/react-native-nirvana-module.git",
+    "baseUrl": "https://github.com/Bing619/react-native-nirvana-module"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "zbb",
+    "email": "bing.zhu@nirvana-info.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
