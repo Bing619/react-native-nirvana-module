@@ -9,12 +9,12 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   react-native-nirvana-module
                    DESC
-  s.homepage     = "https://github.com/github_account/react-native-nirvana-module"
+  s.homepage     = "https://github.com/Bing619/react-native-nirvana-module"
   s.license      = "MIT"
   # s.license    = { :type => "MIT", :file => "FILE_LICENSE" }
-  s.authors      = { "Your Name" => "yourname@email.com" }
+  s.authors      = { "zbb" => "bing.zhu@nirvana-info.com" }
   s.platforms    = { :ios => "9.0" }
-  s.source       = { :git => "https://github.com/github_account/react-native-nirvana-module.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/Bing619/react-native-nirvana-module.git", :tag => "#{s.version}" }
 
   s.source_files = "ios/**/*.{h,m,swift}"
   s.requires_arc = true
